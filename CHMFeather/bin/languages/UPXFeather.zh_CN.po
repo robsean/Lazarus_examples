@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 郑建平@夏宗萍 aka  robsean <<robsean@126.com>>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: tform1.button1.caption
+msgid "Start"
+msgstr "开始"
+
+#: tform1.caption
+msgid "CHMFeather"
+msgstr "CHMFeather"
+
+#: tform1.editbutton1.buttoncaption
+msgid "SelectCHMFile"
+msgstr "选择CHM文件"
+
+#: tform1.opendialog1.title
+msgid "OpenCHMFile"
+msgstr "打开CHM文件"
