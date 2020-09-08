@@ -1,0 +1,3 @@
+这是一个在windows下调用系统自带的hh.exe可执行文件以实现解压缩CHM文件为html文件的示例。
+执行外部程序的详细介绍可参考维基:https://wiki.freepascal.org/Executing_External_Programs/zh_CN
+PS:我尽量按英文原意，虽然看起来比较别扭，但是比较容易理解英文所表达的意思
