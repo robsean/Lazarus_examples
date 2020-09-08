@@ -1,0 +1,18 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform1.button1.caption
+msgid "Start"
+msgstr ""
+
+#: tform1.caption
+msgid "CHMFeather"
+msgstr ""
+
+#: tform1.editbutton1.buttoncaption
+msgid "SelectCHMFile"
+msgstr ""
+
+#: tform1.opendialog1.title
+msgid "OpenCHMFile"
+msgstr ""
