@@ -1,0 +1,49 @@
+object Form1: TForm1
+  Left = 241
+  Height = 279
+  Top = 114
+  Width = 265
+  BorderIcons = [biSystemMenu]
+  Caption = 'Form1'
+  ClientHeight = 279
+  ClientWidth = 265
+  LCLVersion = '2.0.10.0'
+  object BarcodeQR1: TBarcodeQR
+    Left = 16
+    Height = 200
+    Top = 8
+    Width = 243
+    StrictSize = True
+    Text = 'TBarcodeQR'
+  end
+  object Edit1: TEdit
+    Left = 16
+    Height = 25
+    Top = 216
+    Width = 152
+    TabOrder = 0
+    Text = '请输入文字'
+  end
+  object Button1: TButton
+    Left = 184
+    Height = 25
+    Top = 216
+    Width = 75
+    Caption = '生成二维码'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 184
+    Height = 25
+    Top = 242
+    Width = 75
+    Caption = '保存图片'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object SavePictureDialog1: TSavePictureDialog
+    Left = 80
+    Top = 248
+  end
+end
