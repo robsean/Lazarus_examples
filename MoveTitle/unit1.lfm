@@ -1,0 +1,26 @@
+object Form1: TForm1
+  Left = 256
+  Height = 240
+  Top = 145
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '2.0.6.0'
+  object Label1: TLabel
+    Left = 56
+    Height = 16
+    Top = 112
+    Width = 160
+    Caption = '窗口标题文字移动示例'
+    Font.Color = clFuchsia
+    Font.Height = -16
+    ParentColor = False
+    ParentFont = False
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    left = 79
+    top = 46
+  end
+end
